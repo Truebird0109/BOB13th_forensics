@@ -13,3 +13,6 @@ $ echo -n -e \\x00\\x00\\x01\\xf4 > five-hundred.bin
 $ ./add-nbo thousand.bin five-hundred.bin
 1000(0x3e8) + 500(0x1f4) = 1500(0x5dc)
 ```
+### 결과
+![스크린샷 2024-07-18 153146](https://github.com/user-attachments/assets/58670186-88fe-44b0-a60b-fe323b507bbb)
+
